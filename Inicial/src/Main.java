@@ -6,7 +6,7 @@ public class Main {
      * @param args
      */
     public static void main(String[] args) {
-        final String NUMERO_DNI = "49340359T"; //Esto es un variable constante 
+        final String NUMERO_DNI = "49340359T"; //Esto es un variable constante
         String nombreCompleto = "José Andrés Montalbán Guerra"; //Los String son palabras que van entre comillados dobles
         int edad = 27;
         float altura = 1.82f;
